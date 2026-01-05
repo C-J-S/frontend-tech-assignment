@@ -2,6 +2,7 @@
 1. Clone repo
 2. run `npm install` to install all dependencies
 3. Run `npm run dev`
+4. Or go to https://frontend-tech-assignment-henna.vercel.app/quiz?question=1
 
 ## Time Spent ##
 3 hours (I just set a timer for 3 hours and used all the time available)

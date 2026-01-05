@@ -1,0 +1,19 @@
+.review {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+
+	height: 100vh;
+
+	article,
+	footer {
+		width: 80%;
+	}
+
+	.review-footer {
+		display: flex;
+		justify-content: space-between;
+	}
+}

@@ -1,0 +1,28 @@
+.question-form {
+	width: 100%;
+
+	article {
+		margin: 0;
+	}
+
+	.question-info {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+
+		.question-meta-data {
+			font-size: 0.75rem;
+			display: flex;
+			gap: 0.5rem;
+			justify-content: center;
+			text-transform: lowercase;
+		}
+
+		.submit-info {
+			margin-top: auto;
+			font-size: 0.75rem;
+		}
+	}
+
+
+}

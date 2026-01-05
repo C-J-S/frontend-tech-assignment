@@ -1,0 +1,10 @@
+.quiz {
+	min-height: 100vh;
+
+	padding: 0.625rem 1.25rem;
+	
+	display: grid;
+	justify-items: center;
+	grid-template-rows: 4rem 1fr 5rem;
+	margin-bottom: 0;
+}

@@ -1,0 +1,18 @@
+.footer {
+	display: flex;
+	width: 100%;
+	align-items: center;
+
+	.nav-buttons-container {
+		margin-right: auto;
+
+		.prev {
+			margin-right: 0.5rem;
+		}
+	}
+
+	button[type='submit'] {
+		margin: 0;
+		width: auto;
+	}
+}
